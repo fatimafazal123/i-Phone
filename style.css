@@ -1,0 +1,37 @@
+.one{
+    border-radius: 50px !important;
+    text-align: center;
+    width: 150px;
+}
+.two{
+    text-align: center;
+   margin-left: 50px !important;
+}
+.three{
+    text-align: center;
+}
+.four{
+    background-color: rgb(154, 193, 252) !important;
+    width: 98% !important;
+    border-radius: 20px;
+    height: 100% !important;
+}
+.five{
+    border-radius: 50px !important;
+   margin-top: 80px;
+}
+.six{
+    color: rgb(71, 17, 121);
+    
+}
+.seven{
+    background-image: url(./images/back.png);
+    height: 17% !important;
+    width: 27% !important;
+    margin-left: 150px !important;
+    
+}
+.eight{
+    padding-left: 80px !important;
+    padding-top: 150px;
+}
